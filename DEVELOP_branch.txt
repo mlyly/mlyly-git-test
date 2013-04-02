@@ -1,2 +1,7 @@
 Tue Apr  2 13:48:07 EEST 2013
+<<<<<<< HEAD
 Tue Apr  2 14:20:08 EEST 2013
+=======
+Tue Apr  2 14:23:36 EEST 2013 B
+Tue Apr  2 14:20:08 EEST 2013 A
+>>>>>>> 702dc9b1e973a32995ccca5220d0d4750c2fb93b
